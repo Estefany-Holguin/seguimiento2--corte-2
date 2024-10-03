@@ -1,3 +1,4 @@
+
 let habitaciones = [
     { tipo: "individual", maxPersonas: 2, fumadores: false, aceptaMascotas: false, ocupada: false },
     { tipo: "doble", maxPersonas: 4, fumadores: true, aceptaMascotas: false, ocupada: false },
